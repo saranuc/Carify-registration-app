@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+.register-form {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    top:10px;
+    background-color: #0c0b0b;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: 'Poppins';
+  }
+  
+  .register-form h2 {
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .register-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .register-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #ffffff;
+  }
+  
+  .register-form input[type='text'] {
+    width: 80%;
+    padding: 10px;
+    height: 8px;
+    border-radius: 5px; 
+    background-color: #ffffff;
+    color: #000000;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .register-form input[type='text']:focus {
+    outline: none;
+    border-color: #000000;
+  }
+  
+  .register-form button[type='submit'] {
+    display: block;
+
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .register-form button[type='submit']:hover {
+    background-color: #00cc00;
+
+  }
+  .x {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    top:10%;
+    align-items: center;
+    /* background-image: url('D:\rest\rest\src\image3.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .vet a{
+    position: absolute;
+    width: 0px;
+    height: 29px;
+    left: 1230px;
+    top:25px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 27px;
+    line-height: 29px;
+    color: rgb(0, 0, 0);
+    text-decoration:wavy;
+    }
+  
+  

@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+.wbox
+{
+    position: fixed;
+    z-index: -1;
+    width: 200px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: rgb(255, 255, 255);
+}
+.index{
+    position: fixed;
+width: 1060px;
+height: 70px;
+left: 201px;
+top: 0px;
+z-index: 999;
+background-image: linear-gradient(140deg, #ffffff 0%, #ffffff 50%, #ffffff 75%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.wc{
+    position:absolute;
+    width: 1519px;
+    height: 154px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.75;
+    object-fit: cover;
+    box-shadow: 0 4px 8px 0 #000606;
+}
+.hea{
+    position: absolute;
+width: 250px;
+height: 76px;
+left: 200px;
+top: 100px;
+font-family: 'Boogaloo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+color: #FE0D0D;
+}
+.head1 a
+{
+    position: fixed;
+    top: 10px;
+    left:830px;
+    font-family: 'Boogaloo';
+    z-index: 999;
+    text-decoration:none;
+    color: #000000;
+}
+.head a:hover{
+    color: #FE0D0D;
+
+}
+
+
+.head2 a
+{
+    position: fixed;
+    top: 10px;
+    left: 1100px;
+    font-family: 'Boogaloo';
+    z-index: 999;
+    text-decoration:none;
+    color: #000000;
+}
+.head3 a
+{
+    position: fixed;
+    top: 10px;
+    left: 920px;
+    font-family: 'Boogaloo';
+    z-index: 999;
+    text-decoration:none;
+    color: #000000;
+}
+.head4 a
+{
+    position: fixed;
+    top: 10px;
+    left: 1000px;
+    font-family: 'Boogaloo';
+    z-index: 999;
+    text-decoration:none;
+    color: #000000;
+}
+.head5 a
+{
+    position: fixed;
+    top: 10px;
+    left: 1200px;
+    font-family: 'Boogaloo';
+    z-index: 999;
+    text-decoration:none;
+    color: #000000;
+}
+.pead1 a{
+         position: absolute;
+left: 1100px;
+top: 0px;
+font-family: 'Boogaloo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #000000;
+text-decoration: none;
+z-index: 999;
+}
+.pead1 a:hover{
+    color: rgb(255, 0, 0);
+}
+.top{
+    position: absolute;
+width: 250px;
+height: 360px;
+left: 500px;
+top: 170px;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height:25px;
+}
+.top2{
+    position: absolute;
+width: 500px;
+height: 100px;
+left: 606px;
+top: 250px;
+font-style:normal;
+font-family:sans-serif;
+font-size: 27px;
+line-height:50px;
+}
+.log1 {
+    position: absolute;
+width: 560px;
+height: 410px;
+left: 10px;
+top: 330px;
+border-radius: 20px;
+box-shadow: 0 4px 8px 0 #000606;
+}
+.para{
+    position: absolute;
+width: 575px;
+height: 153px;
+left: 650px;
+top: 380px;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 30px;
+color: #4F4646;
+}
+.logo1{
+    position: absolute;
+width: 215px;
+height: 150px;
+left: 655px;
+top: 440px;
+}
+.para2{
+    position: absolute;
+width: 550px;
+height: 215px;
+left: 670px;
+top: 560px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 50px;
+color: #000000;
+
+}
+.bvot {
+    position: absolute;
+    top:1230px;
+    left:810px;
+    color: #ffffff;
+    font-family: "Poppins";
+    font-size: 13px;
+}
+.cont{
+    position: absolute;
+width: 1263.5px;
+height: 395px;
+left: 0px;
+top: 898px;
+background: rgba(0, 0, 0, 0.85);
+}
+.co{
+    position: absolute;
+width: 397px;
+height: 396px;
+left: 46px;
+top: 897px;
+
+background: rgba(0, 0, 0, 0.26);
+}
+.cn{
+    position: absolute;
+    width: 191px;
+    height: 37px;
+    left: 167px;
+    top: 914px;
+    
+    font-family: 'Boogaloo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #FFFFFF;
+}
+.cn1{
+    
+position: absolute;
+width: 326px;
+height: 137px;
+left: 72px;
+top: 956px;
+font-family: 'Cabin Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.cn2 {
+    position: absolute;
+width: 26px;
+height: 19px;
+left: 56px;
+top: 1123px;
+}
+.cn3{
+    position:absolute;
+    font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+    width: 100px;
+    height: 19px;
+    left: 110px;
+    top: 1145px;
+    color: #FFFFFF;
+}
+.cn4{
+    position: absolute;
+width: 28px;
+height: 21px;
+left: 54px;
+top: 1179px;
+}
+.cn5
+{
+    position: absolute;
+width: 211px;
+height: 24px;
+left: 110px;
+top: 1200px;
+font-family: 'Cagliostro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #FFFFFF;
+}
+.cn6{
+    position: absolute;
+width: 99px;
+height: 46px;
+left: 571px;
+top: 929px;
+
+font-family: 'Boogaloo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+}
+.c{
+    position: absolute;
+width: 140px;
+height: 46px;
+top: 929px;
+left: 1000px;
+font-family: 'Boogaloo';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #FFFFFF;
+}
+.cn7 a{
+    position: absolute;
+width: 78px;
+height: 32px;
+left: 592px;
+top: 1064px;
+font-family:;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.cn8 img{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1000px;
+top: 984px;
+}
+.wap{
+    position:absolute;
+    left:890px;
+    height: 50px;
+    top:1130px;
+    font-weight: 500;
+    color: antiquewhite;
+}
+.wap button{
+    border-radius: 10px;
+    font-family: 'Poppins';
+    box-shadow: none;
+    font-size:small;
+    background-color: rgba(7, 196, 39, 0.753);
+    color: white;
+    width: 300px;
+    height: 50px;
+    top:10px;
+    cursor: pointer;
+    box-shadow: #000000;
+}
+.nowp button{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    width: 300px;
+    height: 53px;
+    top:1000px;
+    cursor: pointer;
+    font-size:small;
+    box-shadow: none;
+}
+.nowp{
+    position:absolute;
+    left:890px;
+    top:1030px;
+    font-family: 'Poppins';
+    font-weight:bolder;
+    color: antiquewhite;
+}  
